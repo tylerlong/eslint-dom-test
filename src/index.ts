@@ -1,1 +1,2 @@
-console.log('Hello world!');
+const constraints: MediaStreamConstraints = {};
+console.log(constraints);

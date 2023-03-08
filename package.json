@@ -3,7 +3,8 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "test": "ts-node src/index.ts"
+    "test": "ts-node src/index.ts",
+    "lint": "eslint --fix '**/*.{ts,tsx,js}' && prettier --write ."
   },
   "devDependencies": {
     "@types/node": "^18.14.6",
