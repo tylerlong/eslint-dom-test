@@ -907,10 +907,10 @@ tsutils@^3.21.0:
   dependencies:
     tslib "^1.8.1"
 
-ttpt@^0.1.7:
-  version "0.1.7"
-  resolved "https://registry.yarnpkg.com/ttpt/-/ttpt-0.1.7.tgz#8e5ddea624617860a9bd16fa478eaee069e4ee85"
-  integrity sha512-Vv09I5HV0koyekQuSp2iKi2vzppBna0RiVkvK0Gi/F2M+yPS8XFMPV2b6GDry1V3k1Z/7//q0y4uDSPLdqqSug==
+ttpt@^0.1.8:
+  version "0.1.8"
+  resolved "https://registry.yarnpkg.com/ttpt/-/ttpt-0.1.8.tgz#4974cf9f12ae239e3848cdaca93dae261bb8374c"
+  integrity sha512-W2cq7EJuZSVSkKxOrlnOueDxWKX913m2iNcQquYNk5LkuMMxX5Yz8ViMQSi5qaFgKFM0AQTJRblB8LuRFHCixg==
   dependencies:
     lodash "^4.17.21"
     shell-commands "^0.1.2"
